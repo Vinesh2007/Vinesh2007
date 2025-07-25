@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is D.Vinesh and I'm a stuent in Madras  Institute of Technology</h2>
+<h2 align="center">Hi 👋! My name is D.Vinesh and I'm a student in Madras  Institute of Technology</h2>
 <text align="center"><pre>😊A Passinate in Web development,Programmin and content creation.
 😊Currently learning Java 
 😊A volley Ball addict. </pre></text>

@@ -18,7 +18,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javascript logo"  />
   <img width="12" />
-  <img src="https://tse2.mm.bing.net/th/id/OIP.w9AIOO6Cfup6aToV1E-dEQHaIr?rs=1&pid=ImgDetMain&o=7&rm=3" height="30" alt="c logo"  />
+  <img src="https://cdn.imgbin.com/16/23/10/imgbin-c-programming-language-icon-letter-c-c-logo-pSZYQvFiAEG5PktYmf6HGWaR4.jpg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://logodix.com/logo/1137946.png" height="30" alt="C++ logo"  />
   <img width="12" />

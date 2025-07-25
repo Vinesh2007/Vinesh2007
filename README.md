@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://tse2.mm.bing.net/th/id/OIP.w9AIOO6Cfup6aToV1E-dEQHaIr?rs=1&pid=ImgDetMain&o=7&rm=3" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://logodix.com/logo/1137946.png" height="30" alt="C++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />

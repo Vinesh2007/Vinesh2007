@@ -18,7 +18,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javascript logo"  />
   <img width="12" />
-  <img src="https://tse2.mm.bing.net/th/id/OIP.D49sn-jAzCwr5sRo911OWgHaD1?rs=1&pid=ImgDetMain&o=7&rm=3" height="30" alt="c logo"  />
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=dpJ0MVc7&id=DE6CED8BD3352458E9B6360A76508D110B93052D&thid=OIP.dpJ0MVc71l8mOcROsAh_5gHaIL&mediaurl=https%3a%2f%2fwww.pngkit.com%2fpng%2ffull%2f101-1010012_c-programming-icon-c-programming-language-logo.png&exph=1401&expw=1269&q=c+language+png&simid=608038547047586928&FORM=IRPRST&ck=6FFDDA9702F522841C0F346581EC0FC1&selectedIndex=0&itb=1" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -45,8 +45,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 

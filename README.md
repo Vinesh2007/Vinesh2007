@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is D.Vinesh and I'm a stuent in MIT, from Salem</h2>
+<h2 align="center">Hi 👋! My name is D.Vinesh and I'm a stuent in Madras  Institute of Technology</h2>
 <text align="center"><pre>😊I'm interested in Web development,Programming and content creation.
 😊I'm learning c language.
 😊An volley Ball addict.</pre></text>
@@ -18,7 +18,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />

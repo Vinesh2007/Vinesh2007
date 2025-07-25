@@ -16,19 +16,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javascript logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.imgbin.com/16/23/10/imgbin-c-programming-language-icon-letter-c-c-logo-pSZYQvFiAEG5PktYmf6HGWaR4.jpg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://logodix.com/logo/1137946.png" height="30" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
 </div>
 
 ###

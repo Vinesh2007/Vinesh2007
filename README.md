@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is D.Vinesh and I'm a stuent in Madras  Institute of Technology</h2>
 <text align="center"><pre>😊I'm interested in Web development,Programming and content creation.
-😊I'm learning c language.
+😊Currently learning Java 
 😊An volley Ball addict.</pre></text>
 
 <div align="center">

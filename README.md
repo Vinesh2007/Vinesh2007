@@ -16,16 +16,18 @@
 
 <table border="0" style="width: 100%;">
 
-  <tr>
-    <td style="border: none;"> 
-     🔭 I'm currently pursuing BE Computer Science at MIT Campus,Anna University.<br/>
-     🌱 I'm interested in Web development , Competitive Programming  <br/>
-     💬 Ask me about C++,Java,Javascript <br/>
-     📫 Reach me through <a href="mailto:vineshduraisamy1@gmail.com">Email</a> 
-    </td>
+<tr>
+  <td style="border: none;"> 
+  <pre>
+🔭 I'm currently pursuing BE Computer Science at MIT Campus,Anna University.
+🌱 I'm interested in Web development , Competitive Programming  
+💬 Ask me about C++,Java,Javascript 
+📫 Reach me through <a href="mailto:vineshduraisamy1@gmail.com">Email</a>
+   </pre> 
+  </td>
 
-  <td style="border: none;width:25%;">
-  <img
+   <td style="border: none;width:25%;">
+    <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Programmer Coding"
     width="380"

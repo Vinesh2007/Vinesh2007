@@ -14,7 +14,7 @@
 <!-- ABOUT ME -->
 ## 🧑‍💻 About Me
 
-<table border="0" style="width: 100%;">
+<table border="0" style="width: 100%;border:none">
 
 <tr>
   <td style="border: none;"> 

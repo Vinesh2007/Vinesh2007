@@ -26,11 +26,11 @@
    </pre> 
   </td>
 
-   <td style="border: none;width:25%;">
+   <td style="border: none">
     <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Programmer Coding"
-    width="380"
+    width="25%"
     />
     </td>
     
